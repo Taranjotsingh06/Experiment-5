@@ -76,10 +76,3 @@ This reduces initial load time and improves performance.
 - React Router DOM
 - CSS
 
----
-
-# How to Run
-
-```bash
-npm install
-npm run dev
